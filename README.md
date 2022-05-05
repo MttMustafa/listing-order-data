@@ -11,7 +11,9 @@ What this code do:
 
 How it relates to my previous knowledge:
 
-I have been working with JavaScript about 2 years. So, being familiar to the language and my overall knowledge about interacting with DOM helped a lot
-I learned backend side of the JS more recently and while working with it, I got familiar with working JSON from interacting APIs which most of them use data stored in JSON format.
+I have been working with JavaScript about 2 years. So, being familiar to the language and my overall knowledge about interacting with DOM helped a lot.
+
+I learned backend side of the JS more recently. While working with the Node, I got familiar with working JSON from interacting web APIs.
+This experience also helped extracting and using JSON data in this task.
 
 
