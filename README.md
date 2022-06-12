@@ -8,12 +8,3 @@ What this code do:
 * The div contains basic order attributes and also a table contains PurchaseOrderDetails
 * Basic attributes appended from a JavaScript template literal
 * Table created dynamically according to number of attributes required, which are taken as an reqAttr argument.
-
-How it relates to my previous knowledge:
-
-I have been working with JavaScript about 2 years. So, being familiar to the language and my overall knowledge about interacting with DOM helped a lot.
-
-I learned backend side of the JS more recently. While working with the Node, I got familiar with working JSON from interacting web APIs.
-This experience also helped extracting and using JSON data in this task.
-
-
